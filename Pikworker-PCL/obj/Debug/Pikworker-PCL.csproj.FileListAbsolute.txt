@@ -1,0 +1,16 @@
+c:\users\ramees\documents\visual studio 2013\Projects\Pikworker\Pikworker-PCL\bin\Debug\Pikworker-PCL.dll
+c:\users\ramees\documents\visual studio 2013\Projects\Pikworker\Pikworker-PCL\bin\Debug\Pikworker-PCL.pdb
+c:\users\ramees\documents\visual studio 2013\Projects\Pikworker\Pikworker-PCL\obj\Debug\Pikworker-PCL.dll
+c:\users\ramees\documents\visual studio 2013\Projects\Pikworker\Pikworker-PCL\obj\Debug\Pikworker-PCL.pdb
+C:\Users\Ramees\Documents\Visual Studio 2013\Projects\Pikworker\Pikworker-PCL\bin\Debug\Pikworker-PCL.dll.config
+C:\Users\Ramees\Documents\Visual Studio 2013\Projects\Pikworker\Pikworker-PCL\bin\Debug\Microsoft.WindowsAzure.Mobile.dll
+C:\Users\Ramees\Documents\Visual Studio 2013\Projects\Pikworker\Pikworker-PCL\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Ramees\Documents\Visual Studio 2013\Projects\Pikworker\Pikworker-PCL\bin\Debug\System.Net.Http.dll
+C:\Users\Ramees\Documents\Visual Studio 2013\Projects\Pikworker\Pikworker-PCL\bin\Debug\System.Net.Http.Extensions.dll
+C:\Users\Ramees\Documents\Visual Studio 2013\Projects\Pikworker\Pikworker-PCL\bin\Debug\System.Net.Http.Primitives.dll
+C:\Users\Ramees\Documents\Visual Studio 2013\Projects\Pikworker\Pikworker-PCL\bin\Debug\Microsoft.WindowsAzure.Mobile.xml
+C:\Users\Ramees\Documents\Visual Studio 2013\Projects\Pikworker\Pikworker-PCL\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Ramees\Documents\Visual Studio 2013\Projects\Pikworker\Pikworker-PCL\bin\Debug\System.Net.Http.xml
+C:\Users\Ramees\Documents\Visual Studio 2013\Projects\Pikworker\Pikworker-PCL\bin\Debug\System.Net.Http.Extensions.xml
+C:\Users\Ramees\Documents\Visual Studio 2013\Projects\Pikworker\Pikworker-PCL\bin\Debug\System.Net.Http.Primitives.xml
+C:\Users\Ramees\Documents\Visual Studio 2013\Projects\Pikworker\Pikworker-PCL\obj\Debug\Pikworker-PCL.csproj.App.config
